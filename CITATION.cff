@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, cite it using this metadata."
+title: "Navier–Stokes Independent Reproduction Benchmark"
+version: 1.1.0
+date-released: 2026-09-10
+type: software
+authors:
+  - family-names: "JACKS0N"
+    given-names: "DOUGLAS W. T."
+abstract: >-
+  An AI-agnostic, reproducible benchmark for independently compiling,
+  aligning, red-teaming, and academically auditing the analytical and Lean 4
+  artifacts accompanying a proposed resolution of the Navier–Stokes
+  Millennium Prize Problem.
+license: MIT
+keywords:
+  - Navier-Stokes
+  - Lean 4
+  - formal verification
+  - reproducibility
+  - proof auditing
+  - Millennium Prize Problem
+
